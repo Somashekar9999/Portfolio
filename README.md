@@ -61,13 +61,5 @@
  <div >
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bheema-284&show_icons=true&locale=en&layout=compact&theme=light" alt="somashekar" width="380" /></p>
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=bheema-284&show_icons=true&locale=en&theme=light" alt="somashekar" width="380" /></p>
-</div>
-
-<br/><br/><br/><br/>
-
-<br/><br/><br/><br/>
-<a href="https://github.com/bheema-284/github-readme-activity-graph"><img alt="somashekar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bheema-284&bg_color=white&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/><br/>
 
